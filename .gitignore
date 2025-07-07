@@ -1,0 +1,18 @@
+# Jupyter 忽略规则
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# 数据文件
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.zip
+
+# 虚拟环境
+env/
+venv/
+
+# 日志文件
+*.log
